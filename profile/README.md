@@ -22,11 +22,4 @@ In much of West Africa, people already buy on credit at trusted merchants and po
 
 ## Status
 
-Ovoo is in active development under **Kauza Africa** by Darryl-win LOGOSSOU, currently in its final build and validation phase. Repositories are private while the product is being finalized; reach out below if you'd like to know more.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Darrylwin-181717?style=flat&logo=github&logoColor=white)](https://github.com/Darrylwin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darryl%20Win-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darryl-win-logossou)
-
-</div>
+Ovoo is in active development under **Kauza Africa** by [Darryl-win LOGOSSOU](https://github.com/Darrylwin), currently in its final build and validation phase. Repositories are private while the product is being finalized; reach out below if you'd like to know more.
